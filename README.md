@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**mich-murphy/mich-murphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Michael, a Senior Data Analyst/Data Engineer working in Melbourne, Australia.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Senior Data Analyst/Data Engineer [`ANZ`](https://www.anz.com.au/)
+
+##### BIO
+
+- 🔭 I’m currently working at: **ANZ**
+- ⚙️ I use daily: `Python`, `SQL`, `Bash`, `Vim`
+- 🌱 Currently learning: **Nix/NixOS** as well as **data visualization and statistics in Python**
+- 💬 Ask me about: **data analysis**, **data engineering**, **Nix/NixOS**, **Arch Linux**, **open source**
+- 📫 How to reach me: [`linkedin.com/in/michael-murphy-data`](https://www.linkedin.com/in/michael-murphy-data/) or email me [`github@elmurphy.com`](mailto:github@elmurphy.com)
+- ⚡ Fun fact: I'm a huge fan of specialty coffee and use colemak as a keyboard layout
