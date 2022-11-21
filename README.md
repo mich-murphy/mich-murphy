@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I'm Michael, a Senior Data Analyst/Data Engineer working in Melbourne, Australia.
+#### I'm Michael, a Data Engineer working in Melbourne, Australia.
 
 ##### NOW
 
-- 💻 Senior Data Analyst/Data Engineer [`ANZ`](https://www.anz.com.au/)
+- 💻 Data Engineer [`ANZ`](https://www.anz.com.au/)
 
 ##### BIO
 
