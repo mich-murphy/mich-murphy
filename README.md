@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-#### I'm Michael, a Data Engineer working in Melbourne, Australia.
-
-##### NOW
-
-- 💻 Data Engineer [`ANZ`](https://www.anz.com.au/)
+#### I'm Michael, a Data Engineer working in Australia.
 
 ##### BIO
 
-- 🔭 I’m currently working at: **ANZ**
+- 🔭 I’m currently working at: [`ANZ`](https://www.anz.com.au/)
 - ⚙️ I use daily: `Python`, `SQL`, `Bash`, `Vim`
-- 🌱 Currently learning: **Nix/NixOS** as well as **data visualization and statistics in Python**
-- 💬 Ask me about: **data analysis**, **data engineering**, **Nix/NixOS**, **Arch Linux**, **open source**
+- 🌱 Currently learning: **Nix/NixOS**
+- 💬 Ask me about: **data engineering**, **Nix/NixOS**, **Arch Linux**
 - 📫 How to reach me: [`linkedin.com/in/michael-murphy-data`](https://www.linkedin.com/in/michael-murphy-data/) or email me [`github@elmurphy.com`](mailto:github@elmurphy.com)
-- ⚡ Fun fact: I'm a huge fan of specialty coffee and use colemak as a keyboard layout
+- ⚡ Fun fact: I use Arch by the way
