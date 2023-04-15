@@ -9,4 +9,3 @@
 - 🌱 Currently learning: **Nix/NixOS**
 - 💬 Ask me about: **data engineering**, **Nix/NixOS**, **Arch Linux**
 - 📫 How to reach me: [`linkedin.com/in/michael-murphy-data`](https://www.linkedin.com/in/michael-murphy-data/) or email me [`github@elmurphy.com`](mailto:github@elmurphy.com)
-- ⚡ Fun fact: I use Arch by the way
